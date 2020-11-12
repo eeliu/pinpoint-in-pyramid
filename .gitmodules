@@ -1,0 +1,3 @@
+[submodule "pyramid-realworld-example-app"]
+	path = pyramid-realworld-example-app
+	url = https://github.com/niteoweb/pyramid-realworld-example-app.git
