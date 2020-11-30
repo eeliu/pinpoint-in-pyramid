@@ -1,8 +1,11 @@
 ## pyramid-realworld-example-app
 
+### Download pinpoint-py-plugins
+
+[pinpoint-py-plugins](https://github.com/pinpoint-apm/pinpoint-c-agent/releases/download/v0.4.0/pinpoint-py-v0.4.0.zip)
 
 ### Steps
-1. Copy "" to src
+1. Copy "pinpoint" to src
 2. Enable  pinpoint middleware 
 
 ``` python 
