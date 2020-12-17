@@ -2,7 +2,7 @@
 
 ### Download pinpoint-py-plugins
 
-[pinpoint-py-plugins](https://github.com/pinpoint-apm/pinpoint-c-agent/releases/download/v0.4.0/pinpoint-py-v0.4.0.zip)
+[pinpoint-py-plugins](https://github.com/pinpoint-apm/pinpoint-c-agent/releases/download/V2020.12.17/pinpoint-python-plugins-v0.0.1.tar.gz)
 
 ### Steps
 1. Copy "pinpoint" to src
